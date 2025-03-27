@@ -1,0 +1,36 @@
+<p>Easy Backup Scheduler is an easy tool to take backup of your important data to local PC,Network or FTP server. It can take backup daily, weekly or customized time. You can select more than one source and destination.  User interface is very friendly and well documented. </p>
+
+<h2>Features</h2>
+<p>
+<ul>
+<li>Very easy user interface, Drag & Drop support</li>
+<li>Add multiple source of files and folder</li>
+<li>Add multiple destination</li>
+<li>Backup as zip or mirror copy</li>
+<li>Integrated compression and encryption of ZIP file</li>
+<li>Incremental and Differential backup support</li>
+<li>FTP Backup</li>
+</ul>
+
+<h2>To Do</h2>
+<ul>
+<li>SFTP  support</li>
+<li>Database backup (MySQL,SQL-all edition)</li>
+<li>Google Drive and other online storage support</li>
+</ul>
+
+<h2>Suggestions &#38; Error Report</h2>
+
+Please report any error or suggestions.<br />
+
+<h2>Version History</h2>
+Existing customers will be notified for the latest update.
+<p><br></p>
+<p><strong>1.5 </strong> - 6/Dec/2014
+<ul>
+<li>User interface changed</li>
+<li>Zip encryption added with password protection</li>
+<li>FTP backup with incremental-differential support</li>
+</ul>
+
+<p>Runtime Requirement : .NET 4. 0 <br /></p>
